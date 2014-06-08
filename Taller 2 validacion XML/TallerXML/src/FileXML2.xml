@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE estudiante SYSTEM "NewDTD.dtd" >
+<estudiante>
+  <codigo>codigo</codigo>
+  <nombre>nombre</nombre>
+  <semestre>
+    <anos>anos</anos>
+    <cursos>
+      <nota1>nota1</nota1>
+      <nota2>nota2</nota2>
+      <nota3>nota3</nota3>
+      <notaFinal>notaFinal</notaFinal>
+    </cursos>
+  </semestre>
+</estudiante>

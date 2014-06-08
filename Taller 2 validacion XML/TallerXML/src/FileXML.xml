@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:estudiante xmlns:tns="http://www.example.org/NewXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/NewXMLSchema NewXMLSchema.xsd ">
+  <tns:codigo>tns:codigo</tns:codigo>
+  <tns:nombre>tns:nombre</tns:nombre>
+  <tns:semestre>
+    <tns:anos>tns:anos</tns:anos>
+    <tns:Cursos>
+      <tns:nota1>tns:nota1</tns:nota1>
+      <tns:nota2>tns:nota2</tns:nota2>
+      <tns:nota3>tns:nota3</tns:nota3>
+      <tns:notaFinal>tns:notaFinal</tns:notaFinal>
+    </tns:Cursos>
+  </tns:semestre>
+</tns:estudiante>
