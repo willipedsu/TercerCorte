@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT estudiante (codigo,nombre,semestre+)>
+<!ELEMENT codigo (#PCDATA) >
+<!ELEMENT nombre (#PCDATA) >
+<!ELEMENT semestre (anos, cursos+)>
+<!ELEMENT anos (#PCDATA) >
+<!ELEMENT cursos (nota1,nota2,nota3,notaFinal) >
+<!ELEMENT nota1 (#PCDATA)>
+<!ELEMENT nota2 (#PCDATA)>
+<!ELEMENT nota3 (#PCDATA)>
+<!ELEMENT notaFinal (#PCDATA)>
