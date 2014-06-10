@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libros>
+<libro>
+    <autor>Soren Kierkegaard</autor>    
+    <titulo>Fear and Trembling</titulo>    
+    <precio>50.0</precio>
+</libro>
+<libro>
+    <autor>Miguel de Unamuno</autor>    
+    <titulo>Niebla</titulo>    
+    <precio>40.0</precio>
+</libro>
+<libro>
+    <autor>Miguel de Unamuno</autor>    
+    <titulo>La tía tula</titulo>    
+    <precio>23.0</precio>
+</libro>
+<libro>
+    <autor>George Orwell</autor>    
+    <titulo>1984</titulo>    
+    <precio>20.0</precio>
+</libro>
+</libros>
